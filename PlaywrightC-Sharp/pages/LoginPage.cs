@@ -28,7 +28,7 @@ namespace playwrightcs.pages
 
             await _page.WaitForLoadStateAsync(LoadState.Load);
 
-            if (result.Status == 201)
+            if (result.Status == 200)
             {
                 return result;
             }

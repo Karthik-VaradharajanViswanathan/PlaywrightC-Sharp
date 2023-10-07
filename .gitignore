@@ -46,11 +46,11 @@ Generated\ Files/
 [Bb]uild[Ll]og.*
 
 # Extent Report Local Test results
-playwrightcs/index.html
+PlaywrightC-Sharp/index.html
 
 # Playwright Trace Viewer
-playwrightcs/files/screenshots/
-playwrightcs/files/traces/
+PlaywrightC-Sharp/files/screenshots/
+PlaywrightC-Sharp/files/traces/
 
 # NUnit
 *.VisualState.xml
